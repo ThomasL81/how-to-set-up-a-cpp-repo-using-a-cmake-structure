@@ -1,1 +1,2 @@
-# how-to-set-up-a-cpp-repo-using-a-cmake-structure
+# How to set up a C++ repository using a CMake structure
+This tutorial is a git repository supporting a Gitbook. This is still a work in progress, so check back soon!
